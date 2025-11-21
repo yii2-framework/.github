@@ -1,10 +1,14 @@
 # Yii2 Framework: The Modernization Hub
 
-[![Yii2 Ecosystem](https://img.shields.io/badge/Yii2-Ecosystem-orange?style=for-the-badge&logo=yii&logoColor=white)](https://github.com/php-forge)
+[![Yii2](https://img.shields.io/badge/Yii2-Extensions-orange?style=for-the-badge&logo=yii&logoColor=white)](https://github.com/yii2-extensions)
+[![UI Awesome](https://img.shields.io/badge/UI-Awesome-purple?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ui-awesome)
+[![PHP Forge](https://img.shields.io/badge/PHP-Forge-blue?style=for-the-badge&logo=php&logoColor=white)](https://github.com/php-forge)
 
 ## 🚀 Extending Yii2 Lifespan in the Modern Era
 
-Welcome to the community hub for the **modernization of the Yii2 Framework**. While the core framework is officially maintained by [terabytesoft](https://github.com/terabytesoftw), this organization serves as the gateway to the **Next Generation Ecosystem**: tools designed to integrate modern PHP standards, high-performance servers, and reactive UIs into your existing Yii2 applications.
+Welcome to the community hub for the **modernization of the Yii2 Framework**.
+
+This organization serves as the gateway to the **Next Generation Ecosystem**: tools designed to integrate modern PHP standards, high-performance servers, and reactive UIs into your existing Yii2 applications.
 
 ### 🛠 The Ecosystem at a Glance
 
@@ -12,9 +16,9 @@ We are a coordinated effort providing enterprise-grade packages across the entir
 
 | Organization | Focus Area | Key Technologies |
 | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/yii/4285F4" width="18" align="center" /> **[yii2-extensions](https://github.com/yii2-extensions)** | **Backend Performance** | `FrankenPHP`, `RoadRunner`, `PSR-7/17`, `PHPStan` |
-| **[🎨 UI Awesome](https://github.com/ui-awesome)** | **Frontend & UI** | `Tailwind CSS`, `Flowbite`, `daisyUI `, `HTML Components` |
-| **[🔧 PHP Forge](https://github.com/php-forge)** | **Core Tools** | `Foxy` |
+| **[yii2-extensions](https://github.com/yii2-extensions)** | **Backend Performance** | `FrankenPHP`, `RoadRunner`, `PSR-7/17`, `PHPStan` |
+| **[UI Awesome](https://github.com/ui-awesome)** | **Frontend & UI** | `Tailwind CSS`, `Flowbite`, `daisyUI `, `HTML Components` |
+| **[PHP Forge](https://github.com/php-forge)** | **Core Tools** | `Foxy` |
 
 ### ⚡ Why Modernize?
 
@@ -27,7 +31,7 @@ Don't rewrite your application from scratch; evolve it. Our packages allow you t
 -----
 
 <div align="center">
-  <h3>❤️ Support the Modernization Effort</h3> 
+  <h3>❤️ Support the Modernization Effort.</h3> 
   <p>Maintaining this ecosystem requires dedicated engineering effort. Help us keep Yii2 competitive against Laravel and Symfony.</p> 
   <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" /></a>
 </div>
