@@ -25,14 +25,14 @@ We are a coordinated effort providing enterprise-grade packages across the entir
 
 Don't rewrite your application from scratch; evolve it. Our packages allow you to:
 
-1.  **Extreme Speed:** Run Yii2 on **FrankenPHP** or **RoadRunner** for 10x performance gains.
-2.  **Code Quality:** Strict typing and ready for static analysis with PHPStan.
-3.  **Modern UI:** Native "drop-in" support for **Flowbite** and **Tailwind CSS**.
+1. **Extreme Speed:** Run Yii2 on **FrankenPHP** or **RoadRunner** for 10x performance gains.
+2. **Code Quality:** Strict typing and ready for static analysis with PHPStan.
+3. **Modern UI:** Native "drop-in" support for **Flowbite** and **Tailwind CSS**.
 
 ---
 
 <div align="center">
-  <h3>❤️ Support the Modernization Effort.</h3> 
-  <p>Maintaining this ecosystem requires dedicated engineering effort. Help us keep Yii2 competitive against Laravel and Symfony.</p> 
-  <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" /></a>
+  <h3>❤️ Support the Modernization Effort.</h3>
+  <p>Maintaining this ecosystem requires dedicated engineering effort. Help us keep Yii2 competitive against Laravel and Symfony.</p>
+  <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor"/></a>
 </div>
