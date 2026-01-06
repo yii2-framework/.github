@@ -8,18 +8,18 @@
 
 Welcome to the community hub for the **modernization of the Yii2 Framework**.
 
-This organization serves as the gateway to the **Next-Generation Ecosystem**: tools designed to integrate modern PHP 
+This organization serves as the gateway to the **Next-Generation Ecosystem**: tools designed to integrate modern PHP
 standards, high-performance servers, and reactive UIs into your existing Yii2 applications.
 
 ### 🛠 The Ecosystem at a Glance
 
 We are a coordinated effort providing enterprise-grade packages across the entire technology stack:
 
-| Organization | Focus Area | Key Technologies |
-| :--- | :--- | :--- |
-| **[yii2-extensions](https://github.com/yii2-extensions)** | **Backend Performance** | `FrankenPHP`, `RoadRunner`, `PSR-7/17`, `PHPStan` |
-| **[UI Awesome](https://github.com/ui-awesome)** | **Frontend & UI** | `Tailwind CSS`, `Flowbite`, `daisyUI`, `HTML Components` |
-| **[PHP Forge](https://github.com/php-forge)** | **Core Tools** | `Foxy` |
+| Organization                                              | Focus Area              | Key Technologies                                         |
+| :-------------------------------------------------------- | :---------------------- | :------------------------------------------------------- |
+| **[yii2-extensions](https://github.com/yii2-extensions)** | **Backend Performance** | `FrankenPHP`, `RoadRunner`, `PSR-7/17`, `PHPStan`        |
+| **[UI Awesome](https://github.com/ui-awesome)**           | **Frontend & UI**       | `Tailwind CSS`, `Flowbite`, `daisyUI`, `HTML Components` |
+| **[PHP Forge](https://github.com/php-forge)**             | **Core Tools**          | `Foxy`                                                   |
 
 ### ⚡ Why Modernize?
 
@@ -29,7 +29,7 @@ Don't rewrite your application from scratch; evolve it. Our packages allow you t
 2.  **Code Quality:** Strict typing and ready for static analysis with PHPStan.
 3.  **Modern UI:** Native "drop-in" support for **Flowbite** and **Tailwind CSS**.
 
------
+---
 
 <div align="center">
   <h3>❤️ Support the Modernization Effort.</h3> 
