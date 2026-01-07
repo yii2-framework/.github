@@ -34,5 +34,5 @@ Don't rewrite your application from scratch; evolve it. Our packages allow you t
 <div align="center">
   <h3>❤️ Support the Modernization Effort.</h3>
   <p>Maintaining this ecosystem requires dedicated engineering effort. Help us keep Yii2 competitive against Laravel and Symfony.</p>
-  <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor"/></a>
+  <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor on GitHub"/></a>
 </div>
