@@ -1,38 +1,47 @@
-# Yii2 Framework: The Modernization Hub
+<!-- markdownlint-disable MD013 MD033 -->
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yii2-framework/.github/main/profile/assets/yii2-framework-cover-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yii2-framework/.github/main/profile/assets/yii2-framework-cover.png">
+    <img src="https://raw.githubusercontent.com/yii2-framework/.github/main/profile/assets/yii2-framework-cover.png" alt="yii2-framework" width="1280">
+  </picture>
+</h1>
+<!-- markdownlint-enable MD013 MD033 -->
 
-[![Yii2](https://img.shields.io/badge/Yii2-Extensions-orange?style=for-the-badge&logo=yii&logoColor=white)](https://github.com/yii2-extensions)
-[![UI Awesome](https://img.shields.io/badge/UI-Awesome-purple?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ui-awesome)
-[![PHP Forge](https://img.shields.io/badge/PHP-Forge-blue?style=for-the-badge&logo=php&logoColor=white)](https://github.com/php-forge)
+Independent documentation, reusable GitHub Actions, and experimental Yii2
+application work.
 
-## 🚀 Extending Yii2 Lifespan in the Modern Era
+This organization is separate from the official Yii project. Its framework
+experiments are not upstream Yii releases; find the official framework at
+[yiisoft/yii2](https://github.com/yiisoft/yii2).
 
-Welcome to the community hub for the **modernization of the Yii2 Framework**.
+## Documentation and contribution
 
-This organization serves as the gateway to the **Next-Generation Ecosystem**: tools designed to integrate modern PHP
-standards, high-performance servers, and reactive UIs into your existing Yii2 applications.
+The [portal's About page](https://yii2-framework.github.io/docs/about/)
+explains its scope and independent status. Reuse
+[GitHub Actions workflows](https://github.com/yii2-framework/actions) for PHP
+repository checks. The [app-jquery](https://github.com/yii2-framework/app-jquery)
+template and [jQuery integration](https://github.com/yii2-framework/jquery)
+belong to this organization's experimental framework line; read their
+requirements before use.
 
-### 🛠 The Ecosystem at a Glance
+Read the
+[contribution guide](https://github.com/yii2-framework/.github/blob/main/CONTRIBUTING.md)
+before proposing a change. For security concerns, follow the
+[security policy](https://github.com/yii2-framework/.github/blob/main/SECURITY.md).
 
-We are a coordinated effort providing enterprise-grade packages across the entire technology stack:
+## Related projects
 
-| Organization                                              | Focus Area              | Key Technologies                                         |
-| :-------------------------------------------------------- | :---------------------- | :------------------------------------------------------- |
-| **[yii2-extensions](https://github.com/yii2-extensions)** | **Backend Performance** | `FrankenPHP`, `RoadRunner`, `PSR-7/17`, `PHPStan`        |
-| **[UI Awesome](https://github.com/ui-awesome)**           | **Frontend & UI**       | `Tailwind CSS`, `Flowbite`, `daisyUI`, `HTML Components` |
-| **[PHP Forge](https://github.com/php-forge)**             | **Core Tools**          | `Foxy`                                                   |
+Explore [php-forge](https://github.com/php-forge),
+[ui-awesome](https://github.com/ui-awesome),
+[yii2-extensions](https://github.com/yii2-extensions), and
+[yii3](https://github.com/yii3).
 
-### ⚡ Why Modernize?
+These are independent project collections. They and the documentation portal
+are not official Yii resources. For upstream Yii, visit
+[yiisoft](https://github.com/yiisoft).
 
-Don't rewrite your application from scratch; evolve it. Our packages allow you to:
+## Support this work
 
-1. **Extreme Speed:** Run Yii2 on **FrankenPHP** or **RoadRunner** for 10x performance gains.
-2. **Code Quality:** Strict typing and ready for static analysis with PHPStan.
-3. **Modern UI:** Native "drop-in" support for **Flowbite** and **Tailwind CSS**.
-
----
-
-<div align="center">
-  <h3>❤️ Support the Modernization Effort.</h3>
-  <p>Maintaining this ecosystem requires dedicated engineering effort. Help us keep Yii2 competitive against Laravel and Symfony.</p>
-  <a href="https://github.com/sponsors/terabytesoftw"> <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor on GitHub"/></a>
-</div>
+If this work is useful to you, consider
+[sponsoring @terabytesoftw on GitHub](https://github.com/sponsors/terabytesoftw).
