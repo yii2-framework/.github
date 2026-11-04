@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 MD033 -->
+<!-- markdownlint-disable MD033 -->
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yii2-framework/.github/main/profile/assets/yii2-framework-cover-dark.png">
@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/yii2-framework/.github/main/profile/assets/yii2-framework-cover.png" alt="yii2-framework" width="1280">
   </picture>
 </h1>
-<!-- markdownlint-enable MD013 MD033 -->
+<!-- markdownlint-enable MD033 -->
 
 Independent documentation and reusable GitHub Actions.
 
@@ -19,8 +19,10 @@ The [portal's About page](https://yii2-framework.github.io/docs/about/) explains
 [GitHub Actions workflows](https://github.com/yii2-framework/actions) for PHP repository checks.
 
 Read the [contribution guide](https://github.com/yii2-framework/.github/blob/main/CONTRIBUTING.md) before proposing a
-change. For security concerns, follow the [security policy](https://github.com/yii2-framework/.github/blob/main/SECURITY.md).
+change. For security concerns, follow the
+[security policy](https://github.com/yii2-framework/.github/blob/main/SECURITY.md).
 
 ## Support this work
 
-If this work is useful to you, consider [sponsoring @terabytesoftw on GitHub](https://github.com/sponsors/terabytesoftw).
+If this work is useful to you, consider
+[sponsoring @terabytesoftw on GitHub](https://github.com/sponsors/terabytesoftw).
